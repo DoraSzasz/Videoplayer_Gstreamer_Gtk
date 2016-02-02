@@ -1,3 +1,5 @@
-# Basic_videoplayer_GStreamer_Gtk
-# Basic_videoplayer_GStreamer_Gtk
 # Videoplayer_Gstreamer_Gtk
+
+For playing a video: ./player video.ogv
+-> Double-click for FULLSCREEN
+-> "+" or "-" to change the framerate
